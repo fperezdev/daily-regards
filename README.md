@@ -1,4 +1,4 @@
-# daily-regards
+# Daily Regards
 
 ## Tabla de contenidos
 
