@@ -27,6 +27,7 @@
 - eslint 8.55.0
 - prettier 3.1.1
 - typescript 5.2.2
+- shadcn (para UI)
 
 ## Levantar el Servicio
 
