@@ -1,11 +1,13 @@
+import RegardForm from '@/components/home/RegardForm';
 import Navbar from '@/components/navbar/Navbar';
-import React from 'react';
 
 const Home = () => {
   return (
     <div>
       <Navbar />
-      <div>Home</div>
+      <div className="w-96 mx-auto pt-20">
+        <RegardForm />
+      </div>
     </div>
   );
 };
